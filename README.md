@@ -1,2 +1,2 @@
 # atomicals-utxo
-Introducing a Rust implementation showcasing multi-UTXO transaction signing. 
+Introducing a Rust implementation showcasing multi-UTXO transaction signing. This project serves as a practical example demonstrating how to handle multi-UTXO transactions and generate signatures securely using Rust. By leveraging Rust's robust and efficient programming language features, developers can gain insights into building secure and reliable cryptocurrency applications that involve multi-UTXO transactions. Dive into this project to explore best practices for handling complex transaction scenarios in Rust-based blockchain applications.
